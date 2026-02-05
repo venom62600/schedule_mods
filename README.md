@@ -1,1 +1,3 @@
-latest version of shedule mod launcher.py
+latest version of schedule 1 mods launcher.py
+by spectro
+
